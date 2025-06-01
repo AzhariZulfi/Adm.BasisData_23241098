@@ -1,4 +1,4 @@
--- Modul    : 3 Nilai Literal, Operator, Fungsi, Date, dan Klausal WHERE
+-- Modul    : 2 Nilai Literal, Operator, Fungsi, Date, dan Klausal WHERE
 -- Nama     : Muhammad Azhari Zulfiansyah
 -- NIM      : 23241098
 -- Kelas    : PTI C
